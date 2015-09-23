@@ -25,6 +25,3 @@ port:				4400
 
 markdown:			redcarpet
 extensions:			[fenced_code_blocks]
-
-github:
-	repo:			https://github.com/jlmbaka/jlmbaka.github.io.git
