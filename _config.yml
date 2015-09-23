@@ -1,0 +1,30 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Jean-Louis Mbaka
+tagline:             'Computer Scientist, Software Engineer, and IT Manager'
+description:         'A blog by Jean-Louis Mbaka (<a href="https://twitter.com/j_lou888" target="_blank">@j_lou888</a>).'
+url:                 http://jeanlouismbaka.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Jean-Louis Mbaka
+  url:               https://twitter.com/j_lou888
+  email:             jeanlouis.mbaka@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+port:				4400
+
+markdown:			redcarpet
+extensions:			[fenced_code_blocks]
+
+github:
+	repo:			https://github.com/jlmbaka/jlmbaka.github.io.git
